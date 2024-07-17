@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark",
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "development blog"
+title                    : "개발 블로그"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Haemin Kim"
